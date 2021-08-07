@@ -1,21 +1,21 @@
 ---
 title: Umanga Chapagain
 role: Software Engineer
-avatar: static/images/icon.jpg
-bio: Software engineer working on cloud-native applications.
+avatar: images/author.jpg
+bio: Software engineer working on Kubernetes Operators and Monitoring.
 organization:
-  name: Red Hat India
-  url: https:/redhat.com/en/
+  name: Red Hat
+  url: https://www.redhat.com/en/
 social:
   - icon: envelope
     iconPack: fas
     url: mailto:chapagainumanga@gmail.com
   - icon: twitter
     iconPack: fab
-    url: https://twitter.com/umangach
+    url: https://www.twitter.com/umangach
   - icon: github
     iconPack: fab
-    url: https://github.com/umangachapagain
+    url: https://www.github.com/umangachapagain
 ---
 
 ## Self Introduction
