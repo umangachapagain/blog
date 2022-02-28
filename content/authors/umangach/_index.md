@@ -1,6 +1,6 @@
 ---
 title: Umanga Chapagain
-role: Software Engineer
+role: Senior Software Engineer
 avatar: images/author.jpg
 bio: Software engineer working on Kubernetes Operators and Monitoring.
 organization:
@@ -17,7 +17,3 @@ social:
     iconPack: fab
     url: https://www.github.com/umangachapagain
 ---
-
-## Self Introduction
-
-## Details
