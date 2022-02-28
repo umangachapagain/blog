@@ -1,9 +1,9 @@
 main:
-  # - name: About
-  #   url: '#about'
-  #   weight: 1
   - name: Posts
     url: /posts/
+    weight: 1
+  - name: About
+    url: '/authors/umangach/'
     weight: 2
   # - name: Docs
   #   url: /docs/
